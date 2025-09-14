@@ -1,0 +1,37 @@
+.buttons{
+
+    background-color: black;
+    color: white;
+    width: 220px;
+    height: 44px;
+     border-radius:5px;
+      font-size: 15px;
+      font-weight: bold;
+         cursor: pointer;
+
+         
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        gap:10px;
+    
+}
+
+
+.outline_button{
+    background-color: #ffffff;
+    color: black;
+    width:472px;
+    height: 44px;
+     border-radius:5px;
+     font-size: 15px;
+     font-weight: bold;
+        cursor: pointer;
+
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        gap:10px;
+
+}
+

@@ -1,0 +1,23 @@
+.navbar{
+
+    height: 72px;
+    width: 1440px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+}
+
+
+.navbar ul{
+    list-style: none;
+    display: flex;
+    gap:24px;
+    cursor: pointer;
+}
+
+.navbar img{
+    margin-left: 100px;
+    cursor: pointer;
+}
+

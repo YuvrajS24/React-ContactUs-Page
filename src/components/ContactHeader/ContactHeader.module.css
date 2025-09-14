@@ -1,0 +1,37 @@
+.contact_header{
+  
+   display: flex;
+   flex-direction: column;
+   width: 1000px;
+   height: 149px;
+   align-items:flex-start;
+    margin:0 auto;
+    gap:10px;
+    text-align: justify;
+   
+  }
+  
+
+
+.contact_header h1{
+
+    font-weight: 1000;
+   
+  
+    text-align: left;
+    font-size: 40px;
+    margin-bottom: -10px;
+   
+
+}
+
+
+.contact_header p{
+    
+    text-align: left;
+    line-height: 20px;
+    color: #5A5959;
+    font-weight: 540;
+    letter-spacing: 0.4px;
+    word-spacing: 0.4px;
+}
